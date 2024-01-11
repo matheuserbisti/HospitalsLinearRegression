@@ -1,4 +1,4 @@
-M# Hospitals Linear Regression
+# Hospitals Linear Regression
 
 ## Objective
 
